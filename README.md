@@ -13,5 +13,3 @@ Olá! 👋😁<br><br>Sou o Thiago tenho 19 anos e atualmente curso análise e<b
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thiagopesilva&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> ReadMe.md…]()
