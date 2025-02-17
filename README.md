@@ -1,4 +1,4 @@
-Olá! 👋😁<br><br>Sou o Thiago tenho 19 anos e atualmente curso análise e<br>desenvolvimento de sistemas e busco ser um Dev Fullstack no futuro!<br>Estou aprendendo:<br>JavaScript (React)<br>HTML e CSS<br>Python<br><br>⚡ Gosto de:<br>👨‍💻 Tecnologia<br>🎮 Jogos<br>🎵 Música<br>📚 Livros<br>
+Olá! 👋😁<br><br>Sou o Thiago tenho 19 anos e atualmente curso análise e desenvolvimento de sistemas e busco ser um Dev Fullstack no futuro!<br>Estou aprendendo:<br>JavaScript (React)<br>HTML e CSS<br>Python<br><br>⚡ Gosto de:<br>👨‍💻 Tecnologia<br>🎮 Jogos<br>🎵 Música<br>📚 Livros<br>
 
 
 ## 🌐 Socials:
